@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Yogesh and I am a **Blockchain Developer/Data Analyst**. I graduated with a **Computer Science** degree and have work experience in the fields of **Blockchain Development**, **Digital Marketing**, **Data Analysis**. I'm super passionate about blockchain development and hope to make a difference in the Web3 space. I love writing **smart contracts** and **building dApps** on Ethereum.
+My name is Yogesh and I am a **Blockchain Developer/Data Analyst**. I graduated with a **Computer Science** degree and have work experience in the fields of **Blockchain Development**, **Data Analytics** & **Digital Marketing**. I'm super passionate about blockchain development and hope to make a difference in the Web3 space. I love writing **smart contracts** and **building dApps** on Ethereum.
 
 
 - 🌱 I’m currently learning Blockchain Development
